@@ -9,11 +9,11 @@ Code will be available soon ...
 ## Space Noncooperative Targets
 
 ## Baseline algorithms
-` PBVS algorithm
+`PBVS algorithm`
 
-` Bahavior Clone
+`Bahavior Clone`
 
-` DRLAVT
+`DRLAVT`
 
 # ESATracker
 
